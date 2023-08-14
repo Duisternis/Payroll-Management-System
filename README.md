@@ -1,4 +1,4 @@
-![Header](./images/github-header-image.png)
+![Header](./screenshots/github-header-image.png)
 
 # Payroll Management System
 

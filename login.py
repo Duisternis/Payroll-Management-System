@@ -46,7 +46,7 @@ def pdf_maker(month):
     class MyFPDF(FPDF, HTMLMixin):
         pass
 
-    pdf = MyFPDF()
+    pdf = FPDF()
     pdf.add_page()
     pdf.write_html(html)
     pdf.output(f'{userID_salary.get()}-{month}-payslip.pdf', 'F')

@@ -1,4 +1,4 @@
 HOST = "localhost"
 USER = "root"
-PASSWD = "pass"
+PASSWD = "pass@123"
 company_name = "ABC Private LTD"

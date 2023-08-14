@@ -1,0 +1,7 @@
+defusedxml==0.7.1
+fonttools==4.42.0
+fpdf==1.7.2
+fpdf2==2.7.5
+mysql-connector-python==8.1.0
+Pillow==10.0.0
+protobuf==4.21.12

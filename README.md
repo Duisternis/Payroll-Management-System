@@ -29,7 +29,7 @@ The Payroll Management System is a software application designed to manage and a
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/payroll-management-system.git
+git clone https://github.com/duisternis/payroll-management-system.git
 ```
 
 2. Make sure you have Python and the required libraries installed (Tkinter, MySQL connector, FPDF, etc.).
@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/payroll-management-system.git
 4. Run the main script:
 
 ```bash
-python main.py
+python login.py
 ```
 
 5. The application will open, and you can log in with your credentials.
